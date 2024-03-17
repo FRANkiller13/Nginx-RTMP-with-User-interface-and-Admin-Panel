@@ -9,7 +9,7 @@
 ➡️ Database Features: You can put limit to your users to use only Trovo, Twitch or YouTube or all of them from database (Admin panel)  
 ➡️ Admin Panel with Features to add/remove users/streamers to your RTMP Server  
 
-![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface/main/Screenshot%202024-03-17%20212358.png)  
+![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface/main/User%20Interface.png) 
 
 🔻I will upload the project when some parts are finished🔺  
 🔻If you are interested follow the project and if you want recommend some features to add🔺  
