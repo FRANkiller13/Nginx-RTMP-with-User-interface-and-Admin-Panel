@@ -4,8 +4,8 @@
 ✅ User Authentication on connect with obs  
 ✅ User Authentication with server.js file with port 8000 to authedicate the users 
 Added:
-✅ (20/3) When the user saves the Stream Key's, Nginx RTMP Server will automatically reload the nginx.conf
-✅ (20/3) Added message when the nginx.conf is ready for the streamer/user after the save
+✅ (20/3) When the user saves the Stream Key's, Nginx RTMP Server will automatically reload the nginx.conf  
+✅ (20/3) Added message when the nginx.conf is ready for the streamer/user after the save  
 
 
 ❗Under construction :  
