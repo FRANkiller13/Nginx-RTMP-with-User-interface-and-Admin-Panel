@@ -5,6 +5,10 @@
 ✅ User Authentication with server.js file with port 8000 to authedicate the users  
 
 Added:  
+✅ (20/4) Added Database Features: You can put limit to your users to use only Trovo, Twitch or YouTube or all of them from database  
+✅ (20/4) Fixed minor bugs on login page  
+✅ (20/4) Fixed: RTMP Server and Key are in a <input> box protected  
+✅ (20/4) Added X-Frame Protection on login, control panel  
 ✅ (20/4) Added Youtube, Twitch, Trovo, Kick, DLive platforms  
 ✅ (20/4) Fixed minor bugs  
 
@@ -16,11 +20,9 @@ Added:
 ✅ (20/3) When the user saves the Stream Key's, Nginx RTMP Server will automatically reload the nginx.conf  
 ✅ (20/3) Added message when the nginx.conf is ready for the streamer/user after the save  
 
-❗Under construction :  
-✅ Login & Register to store (Username, Password, AuthKey, LastLogin, LastPayment(For companies))    
-✅ Database Features: You can put limit to your users to use only Trovo, Twitch or YouTube or all of them from database  
-➡️ Admin Panel with Features to add/remove users/streamers to your RTMP Server  
-➡️ Admin Panel with Features to put limis on users/streamers to your RTMP Server  
+❗Under construction :     
+➡️ Admin Panel with Features to add/remove users/streamers on your RTMP Server  
+➡️ Admin Panel with Features to put limis on users/streamers on your RTMP Server  
 
 ![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface/main/scr.png) 
 
