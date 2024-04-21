@@ -4,8 +4,9 @@
 ✅ User Authentication on connect with obs  
 ✅ User Authentication with server.js file with port 8000 to authedicate the users  
 
-Added:  
-✅ (20/4) Fixed nodejs server authentication minor bug  
+Added: 
+✅ (20/4) Added logs for server.js  
+✅ (20/4) Fixed server.js authentication minor bug  
 ✅ (20/4) Added Database Features: You can put limit to your users to use only Trovo, Twitch or YouTube or all of them from database  
 ✅ (20/4) Fixed minor bugs on login page  
 ✅ (20/4) Fixed: RTMP Server and Key are in a <input> box protected  
