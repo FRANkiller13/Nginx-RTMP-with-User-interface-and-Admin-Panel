@@ -8,7 +8,7 @@ Added:
 ✅ (22/4) Changed: When user save's the key's it shows success popup message  
 
 ✅ (21/4) Added logs for server.js  
-✅ (21/4) Fixed server.js authentication minor bug  
+✅ (21/4) Fixed: server.js authentication minor bug  
 
 ✅ (20/4) Added Database Features: You can put limit to your users to use only Trovo, Twitch or YouTube or all of them from database  
 ✅ (20/4) Fixed minor bugs on login page  
