@@ -5,6 +5,9 @@
 ✅ User Authentication with server.js file with port 8000 to authedicate the users  
 
 Added:  
+✅ (25/4) Fixed: minor glitches on control_panel.php  
+✅ (25/4) Fixed: Nginx rtmp config  
+
 ✅ (22/4) Changed: When user save's the key's it shows success popup message  
 
 ✅ (21/4) Added logs for server.js  
