@@ -5,6 +5,7 @@
 ✅ User Authentication with server.js file with port 8000 to authedicate the users  
 
 Added:  
+✅ (25/4) Added Nimo TV  
 ✅ (25/4) Fixed: minor glitches on control_panel.php  
 ✅ (25/4) Fixed: Nginx rtmp config  
 
@@ -32,6 +33,14 @@ Added:
 ➡️ Payments & activation restream after the confirmed payment  
 ➡️ Admin Panel with Features to add/remove users/streamers on your RTMP Server  
 ➡️ Admin Panel with Features to put limis on users/streamers on your RTMP Server  
+
+🔷 Platforms 🔷  
+➡️ Trovo  
+➡️ Twitch  
+➡️ Kick  
+➡️ Youtube  
+➡️ DLive  
+➡️ NimoTV  
 
 ![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface/main/scr.png) 
 
