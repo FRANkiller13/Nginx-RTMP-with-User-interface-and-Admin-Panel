@@ -42,7 +42,11 @@ Added:
 ➡️ DLive  
 ➡️ NimoTV  
 
-![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface/main/scr.png)  
+⬇️ Control Panel  
+![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface/main/cp1.png)  
+![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface/main/cp2.png)  
+
+⬇️ Smart Administration Panel  
 ![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface/main/SAP.png) 
 
 🔻I will upload the project when some parts are finished🔺  
