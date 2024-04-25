@@ -5,6 +5,7 @@
 ✅ User Authentication with server.js file with port 8000 to authedicate the users  
 
 Added:  
+✅ (25/4) Added Smart Administration Panel (You can faster and easily edit any user information)  
 ✅ (25/4) Added Nimo TV  
 ✅ (25/4) Fixed: minor glitches on control_panel.php  
 ✅ (25/4) Fixed: Nginx rtmp config  
@@ -42,7 +43,8 @@ Added:
 ➡️ DLive  
 ➡️ NimoTV  
 
-![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface/main/scr.png) 
+![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface/main/scr.png)  
+![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface/main/SAP.png) 
 
 🔻I will upload the project when some parts are finished🔺  
 🔻If you are interested follow the project and if you want recommend some features to add🔺  
