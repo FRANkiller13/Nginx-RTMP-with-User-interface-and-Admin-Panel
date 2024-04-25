@@ -31,9 +31,8 @@ Added:
 ✅ (20/3) Added message when the nginx.conf is ready for the streamer/user after the save  
 
 ❗Under construction :     
-➡️ Payments & activation restream after the confirmed payment  
-➡️ Admin Panel with Features to add/remove users/streamers on your RTMP Server  
-➡️ Admin Panel with Features to put limis on users/streamers on your RTMP Server  
+➡️ Payments & activation restream after the confirmed payment    
+➡️ Admin Panel with Features to add/remove users/streamers on your RTMP Server    
 
 🔷 Platforms 🔷  
 ➡️ Trovo  
