@@ -35,7 +35,7 @@ Added:
 ➡️ Payments & activation restream after the confirmed payment    
 ➡️ Admin Panel with Features to add/remove users/streamers on your RTMP Server    
 
-🔷 Platforms 🔷  
+🔷 Supported Platforms 🔷  
 ➡️ Trovo  
 ➡️ Twitch  
 ➡️ Kick  
