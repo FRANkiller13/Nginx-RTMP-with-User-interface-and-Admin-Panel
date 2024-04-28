@@ -5,7 +5,9 @@
 ✅ User Authentication with server.js file with port 8000 to authedicate the users  
 
 Added:  
-✅ (25/4) Fixed minor bugs on Smart Administration Panel  
+✅ (28/4) Fixed minor bugs on submit when the stream key is empty to replace the new key on user.cfg  
+
+✅ (25/4) Fixed minor bugs on Smart Administration Panel (only for admins)  
 ✅ (25/4) Added Smart Administration Panel (You can faster and easily edit any user information)  
 ✅ (25/4) Added Nimo TV  
 ✅ (25/4) Fixed: minor glitches on control_panel.php  
