@@ -52,6 +52,7 @@ Added:
 ⬇️ Smart Administration Panel  
 ![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface/main/SAP.png) 
 
-🔻I will upload the project when some parts are finished🔺  
-🔻If you are interested follow the project and if you want recommend some features to add🔺  
-🔻The project will be free for everyone ofc🔺 
+🔻I will upload the project when some parts are finished  
+🔻If you are interested follow the project and if you want recommend some features to add  
+🔻The project will be free for everyone ofc  
+🔻Join on my Discord Server: https://discord.gg/Pfxn82sgcw 
