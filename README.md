@@ -5,6 +5,11 @@
 ✅ User Authentication with server.js file with port 8000 to authedicate the users  
 
 Added:  
+✅ (2/6) Is giving access on database to selected user on selected platforms, also ⬇️  
+✅ (2/6) After Create config it automatically restar's server.js and reloading nginx  
+✅ (2/6) Added Create Config button, it creates the config file and is giving to user access to server.js auth file  
+✅ (2/6) Added User Creation button (Only for admins)(Check down on picture for more information)  
+
 ✅ (28/4) Fixed minor bugs on submit when the stream key is empty to replace the new key on user.cfg  
 
 ✅ (25/4) Fixed minor bugs on Smart Administration Panel (only for admins)  
@@ -50,7 +55,10 @@ Added:
 ![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface/main/cp2.png)  
 
 ⬇️ Smart Administration Panel  
-![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface/main/SAP.png) 
+![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface/main/SAP.png)  
+
+⬇️ User Creation  
+![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface-and-Admin-Panel/main/User%20Creation.png)
 
 🔻I will upload the project when some parts are finished  
 🔻If you are interested follow the project and if you want recommend some features to add  
