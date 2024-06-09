@@ -2,9 +2,12 @@
 ✅ Nginx RTMP Server  
 ✅ User interface  
 ✅ User Authentication on connect with obs  
-✅ User Authentication with server.js file with port 8000 to authedicate the users  
+✅ User Authentication with server.js file with port XXXX to authedicate the users  
 
 Added:  
+✅ (9/6) Added custom price's  
+✅ (9/6) Added Secure payments with Stripe.com  
+
 ✅ (2/6) Is giving access on database to selected user on selected platforms, also ⬇️  
 ✅ (2/6) After Create config it automatically restar's server.js and reloading nginx  
 ✅ (2/6) Added Create Config button, it creates the config file and is giving to user access to server.js auth file  
