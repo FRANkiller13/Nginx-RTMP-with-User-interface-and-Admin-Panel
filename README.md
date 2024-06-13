@@ -6,7 +6,7 @@
 
 Added:  
 ✅ (13/6) You can disable/enable any platform you want, and save and start streaming.!  
-✅ (13/6) Added (Manage Your Streams) button and modal menu ⬆️  
+✅ (13/6) Added for anyone (Manage Your Streams) button and modal menu ⬆️  
 
 ✅ (9/6) Added custom price's  
 ✅ (9/6) Added Secure payments with Stripe.com  
