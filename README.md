@@ -5,6 +5,8 @@
 ✅ User Authentication with server.js file with port XXXX to authedicate the users  
 
 Added:  
+✅ (13/6) Fixed/Added (Manage your Streams) permissions for all users/streamers  
+✅ (13/6) Added Text information if the platform is disabled/enabled  
 ✅ (13/6) You can disable/enable any platform you want, and save and start streaming.!  
 ✅ (13/6) Added for anyone (Manage Your Streams) button and modal menu ⬆️  
 
