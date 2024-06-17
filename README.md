@@ -5,6 +5,8 @@
 ✅ User Authentication with server.js file with port XXXX to authedicate the users  
 
 Added:  
+✅ (16/6) Payments & activation for user after the confirmed payment  
+
 ✅ (13/6) Fixed/Added (Manage your Streams) permissions for all users/streamers  
 ✅ (13/6) Added Text information if the platform is disabled/enabled  
 ✅ (13/6) You can disable/enable any platform you want, and save and start streaming.!  
@@ -47,7 +49,6 @@ Added:
 ✅ (20/3) Added message when the nginx.conf is ready for the streamer/user after the save  
 
 ❗Under construction :     
-➡️ Payments & activation restream after the confirmed payment    
 ➡️ Admin Panel with Features to add/remove users/streamers on your RTMP Server    
 
 🔷 Supported Platforms 🔷  
