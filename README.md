@@ -5,6 +5,7 @@
 ✅ User Authentication with server.js file with port XXXX to authedicate the users  
 
 Added:  
+✅ (28/6) Fixed minor bugs on (Manage your Streams) 
 ✅ (16/6) Payments & activation for user after the confirmed payment  
 
 ✅ (13/6) Fixed/Added (Manage your Streams) permissions for all users/streamers  
