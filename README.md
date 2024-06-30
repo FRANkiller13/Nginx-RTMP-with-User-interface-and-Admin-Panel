@@ -5,6 +5,11 @@
 ✅ User Authentication with server.js file with port XXXX to authedicate the users  
 
 Added:  
+➡️ Next plans:  
+➡️ Ability to change Title & Game from the panel for each platform  
+✅ (30/06) Created for twitch [ update game and title ] but not added on panel yet  
+✅ (30/06) Created for trovo [ update game and title ] but not added on panel yet  
+
 ✅ (28/6) Fixed minor bugs on (Manage your Streams)  
 ✅ (16/6) Payments & activation for user after the confirmed payment  
 
