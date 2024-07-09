@@ -5,8 +5,8 @@
 ✅ User Authentication with server.js file with port XXXX to authedicate the users  
 
 Added:  
-➡️ Next plans:  
-➡️ Ability to change Title & Game from the panel for each platform  
+✅ (9/7) Added Change password button  
+✅ (9/7) Created Multistreaming Chat for Youtube, Trovo, Twitch at the same windows but not added on panel yet  
 ✅ (30/06) Created for twitch [ update game and title ] but not added on panel yet  
 ✅ (30/06) Created for trovo [ update game and title ] but not added on panel yet  
 
@@ -22,7 +22,7 @@ Added:
 ✅ (9/6) Added Secure payments with Stripe.com  
 
 ✅ (2/6) Is giving access on database to selected user on selected platforms, also ⬇️  
-✅ (2/6) After Create config it automatically restar's server.js and reloading nginx  
+✅ (2/6) After Create config it automatically restarts server.js and reloading nginx  
 ✅ (2/6) Added Create Config button, it creates the config file and is giving to user access to server.js auth file  
 ✅ (2/6) Added User Creation button (Only for admins)(Check down on picture for more information)  
 
@@ -55,7 +55,9 @@ Added:
 ✅ (20/3) Added message when the nginx.conf is ready for the streamer/user after the save  
 
 ❗Under construction :     
-➡️ Admin Panel with Features to add/remove users/streamers on your RTMP Server    
+➡️ Admin Panel with Features to add/remove users/streamers on your RTMP Server  
+➡️ Ability to change Title & Game from the panel for each platform  
+➡️ Lost password with Email verification  
 
 🔷 Supported Platforms 🔷  
 ➡️ Trovo  
@@ -64,6 +66,8 @@ Added:
 ➡️ Youtube  
 ➡️ DLive  
 ➡️ NimoTV  
+
+🔷 The project started on 17 March 24  
 
 ⬇️ Control Panel  
 ![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface/main/cp1.png)  
@@ -75,7 +79,5 @@ Added:
 ⬇️ User Creation  
 ![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface-and-Admin-Panel/main/UserCreation.png)
 
-🔻I will upload the project when some parts are finished  
 🔻If you are interested follow the project and if you want recommend some features to add  
-🔻The project will be free for everyone ofc  
 🔻Join on my Discord Server: https://discord.gg/Pfxn82sgcw 
