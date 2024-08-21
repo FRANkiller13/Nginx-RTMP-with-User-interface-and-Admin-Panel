@@ -78,7 +78,13 @@ Added:
 ![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface/main/SAP.png)  
 
 ⬇️ User Creation  
-![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface-and-Admin-Panel/main/UserCreation.png)
+![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface-and-Admin-Panel/main/UserCreation.png)  
+
+⬇️ Manage Platforms  
+![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface-and-Admin-Panel/main/manage-platforms.png)  
+
+⬇️ Change Password  
+![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface-and-Admin-Panel/main/change-password.png)  
 
 🔻If you are interested follow the project and if you want recommend some features to add  
 🔻Join on my Discord Server: https://discord.gg/Pfxn82sgcw 
