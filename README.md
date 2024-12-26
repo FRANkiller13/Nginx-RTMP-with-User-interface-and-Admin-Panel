@@ -70,6 +70,9 @@ Added:
 
 🔷 The project started on 17 March 24  
 
+🔻If you are interested follow the project and if you want recommend some features to add  
+🔻Join on my Discord Server: https://discord.restream.gr/
+
 ⬇️ Control Panel  
 ![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface/main/cp1.png)  
 ![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface/main/cp2.png)  
@@ -85,6 +88,3 @@ Added:
 
 ⬇️ Change Password  
 ![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface-and-Admin-Panel/main/change-password.png)  
-
-🔻If you are interested follow the project and if you want recommend some features to add  
-🔻Join on my Discord Server: https://discord.gg/Pfxn82sgcw 
