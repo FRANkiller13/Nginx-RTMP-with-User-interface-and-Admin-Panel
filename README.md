@@ -5,9 +5,10 @@
 ✅ User Authentication with server.js file with port XXXX to authedicate the users  
 
 Added:  
+✅ (26/12) Fixed minor bugs  
 ✅ (12/7) Fixed login minor bug  
 ✅ (9/7) Added Change password button  
-✅ (9/7) Created Multistreaming Chat for Youtube, Trovo, Twitch at the same windows but not added on panel yet  
+✅ (9/7) Created Multistreaming Chat for Trovo, Twitch at the same windows but not added on panel yet  
 ✅ (30/06) Created for twitch [ update game and title ] but not added on panel yet  
 ✅ (30/06) Created for trovo [ update game and title ] but not added on panel yet  
 
@@ -70,8 +71,12 @@ Added:
 
 🔷 The project started on 17 March 24  
 
-🔻If you are interested follow the project and if you want recommend some features to add  
-🔻Join on my Discord Server: https://discord.restream.gr/
+🔶 The project is almost finished..  
+🔶 If you like to buy the project  
+🔶 Contact with me: Fran@Restream.gr  
+
+🟥 If you are interested follow the project and if you want recommend some features to add  
+🟥 Join on my Discord Server: https://discord.restream.gr/
 
 ⬇️ Control Panel  
 ![](https://raw.githubusercontent.com/FRANkiller13/Nginx-RTMP-with-User-interface/main/cp1.png)  
