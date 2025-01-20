@@ -71,11 +71,12 @@ Added:
 
 🔷 The project started on 17 March 24  
 
-🔶 The project is almost finished..  
-🔶 If you like to buy the project  
-🔶 Contact with me: Fran@Restream.gr  
+🔶 The project is almost finished.  
+🔶 The Control panel is for sale  
+🔶 I'm selling also Restream.gr Domain & Website template.  
+🔶 Contact with me for more information & video preview  
+🔶 Fran@Restream.gr or Info@Restream.gr  
 
-🟥 If you are interested follow the project and if you want recommend some features to add  
 🟥 Join on my Discord Server: https://discord.restream.gr/
 
 ⬇️ Control Panel  
