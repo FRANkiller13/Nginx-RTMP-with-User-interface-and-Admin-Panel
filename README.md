@@ -5,6 +5,8 @@
 ✅ User Authentication with server.js file with port XXXX to authedicate the users  
 
 Added:  
+✅ (24/1/2025) Added Facebook  
+
 ✅ (26/12) Fixed minor bugs  
 ✅ (12/7) Fixed login minor bug  
 ✅ (9/7) Added Change password button  
@@ -68,6 +70,7 @@ Added:
 ➡️ Youtube  
 ➡️ DLive  
 ➡️ NimoTV  
+➡️ Facebook  
 
 🔷 The project started on 17 March 24  
 
