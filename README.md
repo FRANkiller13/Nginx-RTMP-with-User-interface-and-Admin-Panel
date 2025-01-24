@@ -5,6 +5,7 @@
 ✅ User Authentication with server.js file with port XXXX to authedicate the users  
 
 Added:  
+✅ (24/1/2025) Added "Select all" checkbox on Manage Your Platforms  
 ✅ (24/1/2025) Added Facebook  
 
 ✅ (26/12) Fixed minor bugs  
