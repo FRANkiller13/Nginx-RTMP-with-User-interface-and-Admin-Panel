@@ -6,7 +6,7 @@
 
 Added:  
 ✅ (24/1/2025) Added "Select all" checkbox on Manage Your Platforms  
-✅ (24/1/2025) Added Facebook  
+✅ (24/1/2025) Added Facebook platform  
 
 ✅ (26/12) Fixed minor bugs  
 ✅ (12/7) Fixed login minor bug  
